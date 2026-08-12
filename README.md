@@ -1,4 +1,4 @@
-# 🚀 Aula Semana 01 — Introdução ao GitHub
+# 🚀 Marcelo Marques 
 
 > Primeiro projeto desenvolvido durante minha jornada acadêmica em Ciência da Computação.
 
